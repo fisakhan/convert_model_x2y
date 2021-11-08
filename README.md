@@ -1,7 +1,5 @@
-# convert_model_x2y
+# Conversion of models (convert_model_x2y)
 Convert neural network model from one format (x) to other (y)
-
-# Conversion of models
 
 :bell:   **ALL models are available for non-commercial research purposes only.**
 
